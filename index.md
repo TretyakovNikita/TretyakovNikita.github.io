@@ -1,4 +1,4 @@
-### Welcome to N. Tratsyakov's homepage
+### Welcome to N. Tratsyakou's homepage
 
 As a hard-worker and dependable individual with a drive for personal and development growth, I am seeking a career in  EPAM.
 
