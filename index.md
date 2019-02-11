@@ -8,9 +8,9 @@ As a hard-worker and dependable individual with a drive for personal and develop
 
 ###  Contact
 
--FancyCalc https://github.com/TretyakovNikita/FancyCalc
--PadawansTask1 https://github.com/TretyakovNikita/PadawansTask1
--PadawansTask2 https://github.com/TretyakovNikita/PadawansTask2
--PadawansTask3 https://github.com/TretyakovNikita/PadawansTask3
+1.FancyCalc https://github.com/TretyakovNikita/FancyCalc
+2.PadawansTask1 https://github.com/TretyakovNikita/PadawansTask1
+3.PadawansTask2 https://github.com/TretyakovNikita/PadawansTask2
+4.PadawansTask3 https://github.com/TretyakovNikita/PadawansTask3
 
 
