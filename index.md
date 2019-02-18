@@ -14,6 +14,5 @@ As a hard-worker and dependable individual with a drive for personal and develop
 4. PadawansTask3 https://github.com/TretyakovNikita/PadawansTask3
 5. Tictactoe game https://github.com/TretyakovNikita/tictactoe
 
-baseUrl  = "https://udemy-certificate.s3.amazonaws.com/image/UC-6NIV5N55.jpg"
-![Image](https://udemy-certificate.s3.amazonaws.com/image/UC-6NIV5N55.jpg)
+
 [https://udemy-certificate.s3.amazonaws.com/image/UC-6NIV5N55.jpg](url)
